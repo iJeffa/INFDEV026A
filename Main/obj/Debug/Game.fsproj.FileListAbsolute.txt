@@ -25,3 +25,6 @@ C:\Users\Giulia\Documents\GitHub\INFDEV01-6A\Sources\Assignment\Main\bin\Debug\S
 C:\Users\Giulia\Documents\GitHub\INFDEV01-6A\Sources\Assignment\Main\bin\Debug\SharpDX.Direct3D9.xml
 C:\Users\Giulia\Documents\GitHub\INFDEV01-6A\Sources\Assignment\Main\obj\Debug\Game.dll
 C:\Users\Giulia\Documents\GitHub\INFDEV01-6A\Sources\Assignment\Main\obj\Debug\Game.pdb
+D:\Development\C#\INFDEV026A\Main\bin\Debug\Main.XML
+D:\Development\C#\INFDEV026A\Main\obj\Debug\Game.dll
+D:\Development\C#\INFDEV026A\Main\obj\Debug\Game.pdb
